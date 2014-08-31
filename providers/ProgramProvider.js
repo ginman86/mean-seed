@@ -4,8 +4,8 @@ var mongo = require('mongodb'),
 
 //var server = new Server('localhost', 27017, {auto_reconnect: true});
 
-Client.connect("mongodb://localhost:27017/cogdb", function(err, db) {
-  console.log("Connected to cogdb");
+Client.connect("mongodb://localhost:27017/testdb", function(err, db) {
+  console.log("Connected to testdb");
   database = db;
 });
 

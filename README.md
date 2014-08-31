@@ -1,4 +1,4 @@
-ng-cog
-======
+mean-seed
+=========
 
-Angular port of cog.
+basic setup for mean stack'd app.
